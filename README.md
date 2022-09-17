@@ -1,2 +1,2 @@
 # git_test
-Learning GitHub c(: 
+Learning GitHub :)
