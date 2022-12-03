@@ -1,0 +1,35 @@
+[33mcommit 580cdfca33dad974ae604db34f08bb651de27098[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mihajlo <f925@protonmail.com>
+Date:   Wed Nov 23 00:34:27 2022 +0100
+
+    Changed some stuff
+
+[33mcommit caa76d488c8c5fc4a7aaf6795078bbfe82c20de7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mihajlo <f925@protonmail.com>
+Date:   Sat Sep 17 19:40:13 2022 +0200
+
+    test
+
+[33mcommit 2e643d908e52301e8a85d375cdb2cb837f3e2a06[m
+Author: Mihajlo <f925@protonmail.com>
+Date:   Sat Sep 17 19:39:25 2022 +0200
+
+    Fixed readme description
+
+[33mcommit ad6b177430bbdd32c44aa5e9361113f87bcac4a9[m
+Author: Mihajlo <f925@protonmail.com>
+Date:   Sat Sep 17 19:31:25 2022 +0200
+
+    Added description to README file
+
+[33mcommit e44cee906338c7ad6c819ff25859e4e37ce99336[m
+Author: Mihajlo <f925@protonmail.com>
+Date:   Sat Sep 17 19:26:18 2022 +0200
+
+    Added hello.world.txt
+
+[33mcommit 49baeff325760c8d4daf63e1f60102e879432ccd[m
+Author: MihajloSljukic <111920424+MihajloSljukic@users.noreply.github.com>
+Date:   Sat Sep 17 19:18:10 2022 +0200
+
+    Initial commit
